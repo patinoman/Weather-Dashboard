@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+/* h1 {
+  font-size: 30px;
+  padding: 10px 10px;
+} */
+
+h3,
+#city-form {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+button {
+  color: white;
+  background-color: var(--primary);
+}
+
+li {
+  list-style: none;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.search-btn {
+  color: white;
+  background-color: var(--primary);
+}
+
+#uv-data {
+  display: inline-block;
+}
+
+.low {
+  color: white;
+  background-color: green;
+  padding: 10px;
+}
+
+.moderate {
+  color: white;
+  background-color: orange;
+  padding: 10px;
+}
+
+.high {
+  color: white;
+  background-color: red;
+  padding: 10px;
+}
+
+.forecastImg {
+  height: 50px;
+  width: 50px;
+}
+
+.card {
+  margin-right: 20px;
+}
+
+h4 {
+  padding-top: 20px;
+}
